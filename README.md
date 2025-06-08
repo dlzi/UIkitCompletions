@@ -196,22 +196,6 @@ To update the completions database:
    ```
    Check for errors.
 
-### Component Command Missing
-1. Ensure `Default.sublime-commands` exists in the `UIkitCompletions` folder.
-2. Verify the command appears in the **Command Palette** (`Ctrl+Shift+P`).
-
-### Snippets Not Loading
-1. Confirm the `snippets/` directory exists in the `UIkitCompletions` folder (or in the `.sublime-package` if installed via Package Control).
-2. Check that each `.sublime-snippet` file has valid XML with `<content>` and `<description>` tags.
-3. Clear the Sublime Text cache:
-   ```bash
-   rm -rf ~/.config/sublime-text/Cache/
-   ```
-4. Restart Sublime Text.
-
-### Settings Not Appearing
-1. Confirm `Main.sublime-menu` and `UIkitCompletions.sublime-settings` are in the `UIkitCompletions` folder.
-2. Clear the Sublime Text cache (see above) and restart.
 
 ## Contributing
 
