@@ -221,12 +221,6 @@ Contributions are welcome! To contribute:
 3. Test changes in Sublime Text 4.
 4. Submit a pull request.
 
-Potential enhancements:
-- Auto-update completions from UIkit CDN.
-- Responsive class completions (e.g., `@s`, `@m`).
-- Additional component snippets (e.g., Accordion, Form, Lightbox).
-- Support for more file types (e.g., `.jsx`, `.tsx` for React).
-
 ## License
 
 This project is licensed under the MIT License.
