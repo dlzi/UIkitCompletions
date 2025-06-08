@@ -1,0 +1,11 @@
+{
+    "uikit_css_path": "",
+    "uikit_js_path": "",
+    "supported_scopes": [
+        "text.html",
+        "text.html.vue",
+        "text.html.twig",
+        "text.html.php"
+    ],
+    "enable_snippet_completions": true
+}

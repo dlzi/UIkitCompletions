@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+<div class="uk-grid-small uk-child-width-1-2@s uk-child-width-1-3@m" uk-grid>
+    <div>
+        ${1:<!-- Content -->}
+    </div>
+    <div>
+        ${2:<!-- Content -->}
+    </div>
+</div>
+]]></content>
+    <tabTrigger>uikit-grid</tabTrigger>
+    <scope>text.html, text.html.vue, text.html.twig, text.html.php</scope>
+    <description>UIkit Grid Layout</description>
+</snippet>

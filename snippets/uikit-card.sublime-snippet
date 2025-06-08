@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<div class="uk-card uk-card-default uk-card-body">
+    <h3 class="uk-card-title">${1:Card Title}</h3>
+    <p>${2:Card content}</p>
+</div>
+]]></content>
+    <tabTrigger>uikit-card</tabTrigger>
+    <scope>text.html, text.html.vue, text.html.twig, text.html.php</scope>
+    <description>UIkit Card</description>
+</snippet>

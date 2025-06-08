@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+<nav class="uk-navbar-container" uk-navbar>
+    <div class="uk-navbar-left">
+        <ul class="uk-navbar-nav">
+            <li class="uk-active"><a href="#">${1:Active}</a></li>
+            <li><a href="#">${2:Item}</a></li>
+            <li><a href="#">${3:Item}</a></li>
+        </ul>
+    </div>
+</nav>
+]]></content>
+    <tabTrigger>uikit-navbar</tabTrigger>
+    <scope>text.html, text.html.vue, text.html.twig, text.html.php</scope>
+    <description>UIkit Navigation Bar</description>
+</snippet>
