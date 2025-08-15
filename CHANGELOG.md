@@ -2,7 +2,7 @@
 
 All notable changes to UIkitCompletions will be documented in this file.
 
-## [2.2.0] - 2025-08-05
+## [2.2.0] - 14/08/2025
 
 ### Added
 - 
